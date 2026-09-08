@@ -1,4 +1,4 @@
-## Acknowledgemnet
+## Acknowledgement
 This project was initially developed by following a c programing tutorial.
 I then modified and improved the project by adding my own changes and logic.
 I also used AI  assistance for learning ,  debugging , and understand parts of this code.
